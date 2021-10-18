@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/grpc/grpc-go.svg)](https://travis-ci.org/grpc/grpc-go)
 [![GoDoc](https://pkg.go.dev/badge/google.golang.org/grpc)][API]
 [![GoReportCard](https://goreportcard.com/badge/grpc/grpc-go)](https://goreportcard.com/report/github.com/grpc/grpc-go)
-
+--
 The [Go][] implementation of [gRPC][]: A high performance, open source, general
 RPC framework that puts mobile and HTTP/2 first. For more information see the
 [Go gRPC docs][], or jump directly into the [quick start][].
@@ -139,3 +139,4 @@ errors.
 [Performance benchmark]: https://performance-dot-grpc-testing.appspot.com/explore?dashboard=5652536396611584&widget=490377658&container=1286539696
 [quick start]: https://grpc.io/docs/languages/go/quickstart
 [go-releases]: https://golang.org/doc/devel/release.html
+# grpc
